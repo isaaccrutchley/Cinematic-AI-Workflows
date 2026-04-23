@@ -1,5 +1,5 @@
-# Prompt-Engineering-Library
-AI Creative Production Library
+# AI Creative Production Library
+
 This repository documents my technical workflows for high-fidelity AI video production.
 
 Core Stack
