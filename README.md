@@ -1,4 +1,4 @@
-# 🎬 Creative AI Direction — Prompt & Visual Systems
+# Creative AI Direction- Prompt & Visual Systems
 
 Creative Video Lead at OhChat
 Exploring cinematic prompting, generative aesthetics, and AI-native storytelling systems.
@@ -11,7 +11,7 @@ This repository is a curated collection of high-fashion, film-inspired prompts d
 
 ---
 
-## 🔊 Audio-Visual Thinking
+## Audio-Visual Thinking
 
 While these prompts are visual, they are designed with audio in mind.
 
@@ -23,7 +23,7 @@ Each scene implies:
 
 ---
 
-## 🧩 Prompt Design Framework
+## Prompt Design Framework
 
 Each prompt follows a structured system:
 
@@ -38,7 +38,7 @@ This transforms prompts into **repeatable creative systems**.
 
 ---
 
-## 📖 Prompt Collection
+## Prompt Collection
 
 ### 01. Experimental Refraction Portrait
 
@@ -126,7 +126,7 @@ Technical Specs: Arriflex 435. Kodak Portra 400 VC. 85mm lens. Shallow depth of 
 
 ---
 
-## 🧪 Case Study: Chromatic Prism
+## Case Study: Chromatic Prism
 
 **Goal:** Test light dispersion + layered transparency
 
@@ -144,7 +144,7 @@ Technical Specs: Arriflex 435. Kodak Portra 400 VC. 85mm lens. Shallow depth of 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Creative Video Lead at OhChat, focused on AI-native storytelling and cinematic systems.
 
