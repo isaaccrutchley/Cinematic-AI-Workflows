@@ -5,9 +5,9 @@ This repository documents my technical workflows for high-fidelity AI video prod
 Core Stack
 Audio: ElevenLabs (V2 for stability, V3 for emotional performance)
 
-Visuals: Higgsfield Soul 2.0, Seeddream 4.5, Kling 3.0
+Visuals: Higgsfield Soul 2.0, Nano Banana Pro, Seeddream 4.5, Kling 3.0
 
-Post-Production: DaVinci Resolve, After Effects, Topaz Proteus
+Post-Production: DaVinci Resolve, Premiere Pro, After Effects, Topaz Proteus
 
 High-Velocity Production
-My current workflow at OhChat compresses 4-week traditional film timelines into 48-hour bespoke creator launches without sacrificing cinematic quality.
+My current workflow at OhChat compresses 6-8 week traditional film timelines into 48-hour bespoke creator launches without sacrificing cinematic quality.
