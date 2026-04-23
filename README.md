@@ -130,6 +130,25 @@ Technical Specs: Arriflex 435. Kodak Portra 400H. 50mm lens. Very shallow depth 
 
 ---
 
+## Audio Experiments & Workflow
+
+Alongside visual prompting, I actively experiment with AI-generated audio pipelines:
+
+* Music generation using Suno (tone, mood, structure)
+* Voice synthesis using ElevenLabs (narration, character tone)
+* Editing and sequencing to align with cinematic visuals
+
+**Workflow:**
+
+1. Generate music bed (mood + pacing)
+2. Design voice tone and delivery
+3. Combine voice + music for emotional timing
+4. Align with visual prompts for cohesive scenes
+
+This process explores how **voice, sound, and visuals can be directed as a unified system**, rather than separate elements.
+
+---
+
 ## About Me
 
 Creative Video Lead at OhChat, focused on AI-native storytelling and cinematic systems.
