@@ -42,6 +42,8 @@ This transforms prompts into **repeatable creative systems**.
 
 ### 01. Experimental Refraction Portrait
 
+<img src="images/hf_20260423_092050_70472c95-48c8-48ad-9627-5a64d8bf621b (1).png" width="400"/>
+
 A vertical cinematic film shot, a highly experimental, multi-layered portrait of a brunette woman fragmented by light refracting through glass.
 
 Styling: She wears a custom-made jacket covered entirely in iridescent sequins that shift from blue to purple to green. Her dark brunette hair is styled in a futuristic, angular cut. Her makeup is minimalist but features an unexpected pop of electric cyan eyeliner on the lower waterline. She holds an array of large, cut crystal prisms in front of her face.
