@@ -56,7 +56,7 @@ Technical Specs: Arriflex 435 (35mm film). Kodak Portra 160 (fine grain, rich co
 
 ### 02. Optical Illusion Portrait
 
-<img src="hf_20260423_162949_3a396974-0f10-41ee-a210-fa025d00a416.png" width="400"/>
+<img src="images/hf_20260423_162949_3a396974-0f10-41ee-a210-fa025d00a416.png" width="400"/>
 
 A vertical cinematic film shot, a highly stylized, graphic portrait of a brunette woman looking directly into the lens with a piercing expression.
 
@@ -70,7 +70,7 @@ Technical Specs: Hasselblad 500CM (Medium format film). Kodak Tri-X 400. 80mm le
 
 ### 03. Botanical Fusion Portrait
 
-<img src="hf_20260423_092031_7b0b16a5-2e3c-4d70-9601-c0f8d8cbbdcc.png" width="400"/>
+<img src="images/hf_20260423_092031_7b0b16a5-2e3c-4d70-9601-c0f8d8cbbdcc.png" width="400"/>
 
 A vertical cinematic film shot, a whimsical, multi-layered portrait of a brunette woman partially obscured by lush, exotic flora.
 
@@ -84,7 +84,7 @@ Technical Specs: Arriflex 435. Kodak Portra 400H. 50mm lens. Very shallow depth 
 
 ### 04. Sculptural Reflection Portrait
 
-<img src="hf_20260423_092037_6a1e9a3d-e39f-4214-b14e-c19437002e77.png" width="400"/>
+<img src="images/hf_20260423_092037_6a1e9a3d-e39f-4214-b14e-c19437002e77.png" width="400"/>
 
 A vertical cinematic film shot, a conceptual profile portrait of a brunette woman facing a warped polished metal mirror.
 
@@ -98,7 +98,7 @@ Technical Specs: Arriflex 435. Kodak Portra 400 VC. 35mm lens. Shallow depth of 
 
 ### 05. Gilded Shadow Portrait
 
-<img src="hf_20260423_092042_515dbf7e-fd36-492a-8a29-0be07129aeee.png" width="400"/> 
+<img src="images/hf_20260423_092042_515dbf7e-fd36-492a-8a29-0be07129aeee.png" width="400"/> 
 
 A vertical cinematic portrait where light and shadow define the composition.
 
