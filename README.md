@@ -88,7 +88,7 @@ Every prompt in this system follows a strict 6-part architecture to ensure consi
 
 <img src="images/hf_20260423_092050_70472c95-48c8-48ad-9627-5a64d8bf621b (1).png" width="400"/>
 
-▶️ **[Watch Video Output](YOUR_LINK_HERE)**
+▶️ **[Watch Video Output](https://youtube.com/shorts/CX4aiDGVUlA)**
 
 > **Prompt:**
 > A vertical cinematic film shot, a highly experimental, multi-layered portrait of a brunette woman fragmented by light refracting through glass.
@@ -108,7 +108,7 @@ Every prompt in this system follows a strict 6-part architecture to ensure consi
 
 <img src="images/hf_20260423_163206_9911ef56-8443-4f1b-958d-e077db23053e.png" width="400"/>
 
-▶️ **[Watch Video Output](YOUR_LINK_HERE)**
+▶️ **[Watch Video Output](https://youtube.com/shorts/zzG4yZoWkj8)**
 
 > **Prompt:**
 > A vertical cinematic film shot, a highly stylized, graphic portrait of a brunette woman looking directly into the lens with a piercing expression.
@@ -128,7 +128,7 @@ Every prompt in this system follows a strict 6-part architecture to ensure consi
 
 <img src="images/hf_20260423_092031_7b0b16a5-2e3c-4d70-9601-c0f8d8cbbdcc.png" width="400"/>
 
-▶️ **[Watch Video Output](YOUR_LINK_HERE)**
+▶️ **[Watch Video Output](https://youtube.com/shorts/RKZeMsiPrpw?feature=share)**
 
 > **Prompt:**
 > A vertical cinematic film shot, a whimsical, multi-layered portrait of a brunette woman partially obscured by lush, exotic flora.
@@ -168,7 +168,7 @@ Every prompt in this system follows a strict 6-part architecture to ensure consi
 
 <img src="images/hf_20260423_092042_515dbf7e-fd36-492a-8a29-0be07129aeee.png" width="400"/>
 
-▶️ **[Watch Video Output](YOUR_LINK_HERE)**
+▶️ **[Watch Video Output](https://youtube.com/shorts/tYGP6nj_Yns?feature=share)**
 
 > **Prompt:**
 > A vertical cinematic portrait where light and shadow define the composition.
