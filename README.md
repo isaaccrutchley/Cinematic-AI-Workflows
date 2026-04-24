@@ -163,4 +163,4 @@ Visuals are only half the system. I actively build integrated AI audio pipelines
 I am currently exploring opportunities to build scalable AI-native storytelling systems for high-end commercial applications. 
 
 * [Portfolio & Showreel](https://www.isaacwcrutchley.com)
-* [LinkedIn]([https://www.linkedin.com/in/isaaccrutchley](https://www.linkedin.com/in/isaac-crutchley-812501158/))
+* [LinkedIn](https://www.linkedin.com/in/isaac-crutchley-812501158/)
