@@ -4,7 +4,7 @@
 
 🌐 **[Portfolio & Showreel](https://www.isaacwcrutchley.com)** · [LinkedIn](https://www.linkedin.com/in/isaac-crutchley-812501158/)
 
-*Bridging 8+ years of high-end commercial post-production with generative AI systems. Previously: McCann WW, Mother, Untold Studios, Kaptcha. Clients include Samsung, Google, Rolls Royce, HSBC, IKEA, Nike.*
+*Bridging 10 years of high-end commercial post-production with generative AI systems. Previously: McCann WW, Mother, Untold Studios, Kaptcha. Clients include Samsung, Google, Rolls Royce, HSBC, IKEA, Nike.*
 
 ---
 
