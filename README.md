@@ -194,6 +194,25 @@ Visuals are only half the system. I actively build integrated AI audio pipelines
 
 ---
 
+## 🚀 Applied Projects
+
+### Soul Studio — Automated Editorial Image Pipeline
+> *Taking the prompt architecture from theory to production.*
+
+A full-stack application that automates the entire editorial image generation workflow — from Claude-written cinematic prompts through to a real-time gallery with culling, batch download, and multi-character support.
+
+Built in one day. The previous attempt by a dedicated AI martech lead took months and produced unusable results.
+
+**→ [View the full technical build](https://github.com/YOUR_USERNAME/soul-studio)**
+
+Key technical achievements:
+- Async edge function architecture solving Supabase's 150s idle timeout
+- 6-part prompt architecture applied at scale across 300+ AI characters
+- Multi-provider image generation with self-draining queue
+- Real-time gallery with per-run organisation and batch ZIP download
+
+---
+
 ## 📬 Connect
 
 * 🌐 [Portfolio & Showreel](https://www.isaacwcrutchley.com)
